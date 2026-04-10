@@ -1,0 +1,7 @@
+[2026-04-10T11:17:24Z] === AST ITERATION 1 START | repo=gotwarlost/istanbul sha=eecc799d ===
+[2026-04-10T11:17:24Z] [iter=1] PHASE START: ast repo=gotwarlost/istanbul sha=eecc799d
+[2026-04-10T11:17:24Z] [iter=1] Building AST aggregate chunks
+[2026-04-10T11:17:33Z] [iter=1] AST chunks built count=1 triples=106343
+[2026-04-10T11:17:33Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/eecc799dc3a78db50a39b1f51f31c1517858c3ae/.complete
+[2026-04-10T11:17:33Z] [iter=1] PHASE END: ast elapsed_s=9 elapsed_min=0.1
+[2026-04-10T11:17:33Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
